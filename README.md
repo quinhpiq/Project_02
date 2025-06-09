@@ -162,7 +162,7 @@ CHƯƠNG 3: 	THIẾT KẾ WIREFRAME
 
 ![image](https://github.com/user-attachments/assets/17f49608-d4a8-489b-8fcf-256cb1c6a1fb)
 
-còn tiếp........
+còn tiếp........ (xem thêm tại link Figma)
  
 
 
