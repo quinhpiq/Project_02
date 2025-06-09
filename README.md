@@ -145,8 +145,8 @@ CHƯƠNG 3: 	THIẾT KẾ WIREFRAME
 
 ![image](https://github.com/user-attachments/assets/b8f05275-186b-4980-8c66-694f636ceb2e)
 
-CHƯƠNG 4: 	THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
-
+**CHƯƠNG 4: 	THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
+**
 ![image](https://github.com/user-attachments/assets/ebe6e21d-d53e-45b9-8046-5b7099553057)
 
 ![image](https://github.com/user-attachments/assets/e1d8013f-a00f-46e3-80fb-afcfa38bb9a6)
@@ -155,8 +155,12 @@ CHƯƠNG 4: 	THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
 
 ![image](https://github.com/user-attachments/assets/708bc3f6-a8d4-4a1b-bfad-c883028ab9a0)
 
-còn tiếp........
+![image](https://github.com/user-attachments/assets/f9d94216-e766-4f5e-ad37-40887dd3b949)
 
+![image](https://github.com/user-attachments/assets/17f49608-d4a8-489b-8fcf-256cb1c6a1fb)
+
+còn tiếp........
+ 
 
 
 
