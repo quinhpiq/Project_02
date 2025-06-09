@@ -74,3 +74,89 @@ kiếm, xem đề xuất, xem mục yêu thích, yêu thích, chia sẻ, tải v
 
 	Quản lý thông tin người dùng, quản lý dữ liệu: các chức năng cho phép người quản trị hệ thống có thể quản lý và bảo mật thông tin người dùng, cập nhật thông tin dữ liệu lên hệ thống.
 
+2.5.	Số lượng giao diện người dùng cần thiết
+
+1.	Trang đăng nhập: hiển thị các trường để nhập tài khoản, mật khẩu, hoặc đăng nhập liên kết với facebook hoặc gmail.
+
+2.	Trang đăng ký: Hiển thị các trường để nhập tài khoản, mẩu khẩu, email…
+
+3.	Trang thiết lập tài khoản: Sau mỗi khi đăng ký xong tài khoản, người dùng có thể thiết lập các thông tin như giới tính, chiều cao, cân nặng, hoạt động yêu thích…
+
+4.	Trang đổi mật khẩu: Hiển thị các trường để nhập mật khẩu mới, mật khẩu cũ
+
+5.	Trang chủ: hiển thị các chỉ số về sức khỏe (số bước chân, calo, nhịp tim, huyết áp) của ngày truy cập theo thời gian thực, hiển thị các tín năng (viết nhật ký, thêm tâm trạng hôm nay, nghe podcast, đọc e -book), hiển
+
+6.	thị một số mục tiêu hôm nay, hiển thị mội số mục tiêu dài hạn, hiển thị các đề xuất cho người dùng.
+
+7.	Trang thông báo: Hiển thị danh sách các thông báo theo thứ tự gần nhất.
+
+8.	Trang cá nhân: Hiển thị các mục như cài đặt, thông tin tài khoản, về E – lifely, hỗ trợ
+
+9.	Trang thống kê bước chân: hiển thị thống kê bước chân (theo hôm nay, tuần, tháng, năm), và một số chỉ số liên quan như thời gian, quãng đường đã đi, so sánh hiệu suất.
+
+10.	Trang thống kê calo: hiển thị thống kê calo (theo hôm nay, tuần, tháng, năm), và một số chỉ số liên quan như thời gian, so sánh hiệu suất.
+
+11.	Trang thêm mục tiêu (hôm nay/dài hạn): hiển thị tùy chọn (dạng menu) loại hoạt động mục tiêu, hiển thị trường để nhập mục tiêu, hiển thị danh sách các mục tiêu đã hoàn thành, chưa hoàn thành.
+
+12.	Trang tính năng: hiển thị danh sách các tính năng như hoạt động, cẩm nang, podcast, e-book.
+
+13.	Trang cẩm nang: hiển thị danh sách các cẩm nang theo sức khỏe hoặc theo tinh thần
+
+14.	Trang đọc cẩm nang: hiển thị nội dung cẩm nang bao gồm văn bản và hình ảnh, hiển thị tùy chọn yêu thích, chia sẻ, tải về.
+
+15.	Trang hoạt động: Hiển thị danh sách các hoạt động
+
+16.	Trang ngồi thiền: hiển thị biểu tượng run time (Đếm ngược thời gian ngồi thiền), thiết lập thời gian và một số chức năng khác.
+
+17.	 Trang viết nhật ký: hiển thị trường để viết nhật lý, một số tùy chọn về kiểu chữ, màu sắc, icon…
+
+18.	Trang thêm tâm trạng: Hiển thị danh sách các icon theo tâm trạng để lựa chọn
+
+19.	Trang Podcast: Hiển thị danh sách các podcast theo đề xuất, nghe gần đây, yêu thích và mục tìm kiếm
+
+20.	Trang E – book: Hiển thị danh sách các e – book theo đề xuất, xem gần đây, yêu thích và mục tìm kiếm
+
+21.	Trang tìm kiếm: hiển thị trường nhập nội dung tìm kiếm, các tab nhỏ gợi ý theo keyword, theo chủ đề.
+
+22.	Trang chia sẻ: hiển thị các trang mạng xã hội để chia sẻ như Facebook hoặc Instafram.
+
+23.	Trang cài đặt chung: hiển thị các tùy chọn cài đặt về thông báo, âm thanh, cài đặt giao diện và xem quyền riêng tư, điều khoản dịch vụ,
+
+24.	Trang thông tin tài khoản: tên tài khoản, giới tính, ngày sinh, email/SĐT, đổi mật khẩu.
+
+2.6.	Khảo sát người dùng
+....
+
+CHƯƠNG 3: 	THIẾT KẾ WIREFRAME
+
+**3.1.	Sơ đồ luồng người dùng – User Flow Diagram**
+
+![image](https://github.com/user-attachments/assets/f8db429b-c72f-4e21-8a6b-c43304dd37a3)
+
+![image](https://github.com/user-attachments/assets/98aa9bad-e39f-4421-9a3a-db4cef508904)
+
+![image](https://github.com/user-attachments/assets/b4e0dfaf-99b2-4f96-8cf7-99e01a45aa5a)
+
+![image](https://github.com/user-attachments/assets/0c321f1e-1314-4044-8be0-4363d3da199e)
+
+![image](https://github.com/user-attachments/assets/1d801573-e7d4-4369-bd6a-531df68cce03)
+
+**3.2.	Wireframe**
+
+![image](https://github.com/user-attachments/assets/b8f05275-186b-4980-8c66-694f636ceb2e)
+
+CHƯƠNG 4: 	THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
+
+![image](https://github.com/user-attachments/assets/ebe6e21d-d53e-45b9-8046-5b7099553057)
+
+![image](https://github.com/user-attachments/assets/e1d8013f-a00f-46e3-80fb-afcfa38bb9a6)
+
+![image](https://github.com/user-attachments/assets/33bbd182-e3a5-4e66-a312-7f709591e64e)
+
+![image](https://github.com/user-attachments/assets/708bc3f6-a8d4-4a1b-bfad-c883028ab9a0)
+
+còn tiếp........
+
+
+
+
