@@ -124,8 +124,10 @@ kiếm, xem đề xuất, xem mục yêu thích, yêu thích, chia sẻ, tải v
 
 24.	Trang thông tin tài khoản: tên tài khoản, giới tính, ngày sinh, email/SĐT, đổi mật khẩu.
 
-2.6.	Khảo sát người dùng
+**2.6.	Khảo sát người dùng
+**
 ....
+
 
 CHƯƠNG 3: 	THIẾT KẾ WIREFRAME
 
@@ -147,6 +149,7 @@ CHƯƠNG 3: 	THIẾT KẾ WIREFRAME
 
 **CHƯƠNG 4: 	THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
 **
+
 ![image](https://github.com/user-attachments/assets/ebe6e21d-d53e-45b9-8046-5b7099553057)
 
 ![image](https://github.com/user-attachments/assets/e1d8013f-a00f-46e3-80fb-afcfa38bb9a6)
